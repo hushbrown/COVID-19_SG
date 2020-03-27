@@ -1,3 +1,7 @@
+[Updates on COVID-19 (Coronavirus Disease 2019) Local Situation](https://www.moh.gov.sg/covid-19)
+
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hushbrown/COVID-19_SG/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
